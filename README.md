@@ -22,7 +22,7 @@ Read 7 | [REST](https://hishamalnaji.github.io/reading-notes-301/read07)
 -------|---------------------------------------------------------------------------------------------
 Read 8 | [SQL](https://hishamalnaji.github.io/reading-notes-301/read08)
 -------|----------------------------------------------------------------------
-Read 9 | [title](url)
+Read 9 | [FUNCTIONAL PROGRAMMING](https://hishamalnaji.github.io/reading-notes-301/read09)
 -------|-----------------------------------------------------------------------
 Read 10 | [title](url)
 --------|-------------------------------------------------------------------
