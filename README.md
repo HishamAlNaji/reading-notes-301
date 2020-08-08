@@ -24,9 +24,9 @@ Read 8 | [SQL](https://hishamalnaji.github.io/reading-notes-301/read08)
 -------|----------------------------------------------------------------------
 Read 9 | [FUNCTIONAL PROGRAMMING](https://hishamalnaji.github.io/reading-notes-301/read09)
 -------|-----------------------------------------------------------------------
-Read 10 | [THE CALL STACK](url)
+Read 10 | [THE CALL STACK](https://hishamalnaji.github.io/reading-notes-301/read10)
 --------|-------------------------------------------------------------------
-Read 11 | [title](url)
+Read 11 | [EJS](https://hishamalnaji.github.io/reading-notes-301/read11)
 --------|----------------------------------------------------------------------
 Read 12 | [title](url)
 --------|------------------------------------------------
