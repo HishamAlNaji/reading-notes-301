@@ -28,7 +28,7 @@ Read 10 | [THE CALL STACK](https://hishamalnaji.github.io/reading-notes-301/read
 --------|-------------------------------------------------------------------
 Read 11 | [EJS](https://hishamalnaji.github.io/reading-notes-301/read11)
 --------|----------------------------------------------------------------------
-Read 12 | [title](url)
+Read 12 | [EJS PARTIALS](https://hishamalnaji.github.io/reading-notes-301/read12)
 --------|------------------------------------------------
 Read 13 | [title](url)
 --------|-----------------------------
