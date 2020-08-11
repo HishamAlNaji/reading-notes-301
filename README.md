@@ -32,8 +32,8 @@ Read 12 | [EJS PARTIALS](https://hishamalnaji.github.io/reading-notes-301/read12
 --------|------------------------------------------------
 Read 13 | [SENDING FORM DATA](https://hishamalnaji.github.io/reading-notes-301/read13)
 --------|-----------------------------
-Read 14 | [title](url)
+Read 14 | [Database Normalization](https://hishamalnaji.github.io/reading-notes-301/read14a)
 --------|-----------------------------------------------
-Read 15 | [title](url)
+Read 15 | [Project Ideas & APIs](https://hishamalnaji.github.io/reading-notes-301/read14b)
 --------|-----------------------------------
 -----------------------------|------------------------------------------------------------------------------------------------
