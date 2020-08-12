@@ -34,6 +34,6 @@ Read 13 | [SENDING FORM DATA](https://hishamalnaji.github.io/reading-notes-301/r
 --------|-----------------------------
 Read 14 | [Database Normalization](https://hishamalnaji.github.io/reading-notes-301/read14a)
 --------|-----------------------------------------------
-Read 15 | [Project Ideas & APIs](https://hishamalnaji.github.io/reading-notes-301/read14b)
+Read 15 | [DIVERSITY AND INCLUSION](https://hishamalnaji.github.io/reading-notes-301/read15)
 --------|-----------------------------------
 -----------------------------|------------------------------------------------------------------------------------------------
